@@ -14,8 +14,8 @@ As a Technical Information Analyst I combine analytical skills, ability to work 
 * [Medium](https://medium.com/@g.alvezz)
 
 
-## Projetos:
-Meus projetos publicados:
+## Projects:
+My published projects:
 
-* **Analisando dados do Air Bnb do Amsterdã:** https://bit.ly/3pzZdYT
+* **Analyzing Amsterdam AirBnb data:** https://bit.ly/3pzZdYT
 
