@@ -17,5 +17,5 @@ As a Technical Information Analyst I combine analytical skills, ability to work 
 ## Projects:
 My published projects:
 
-* **Analyzing Amsterdam AirBnb data:** https://bit.ly/3pzZdYT
+* **Analyzing Amsterdam AirBnb Data:** https://bit.ly/3pzZdYT
 
