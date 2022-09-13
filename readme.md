@@ -18,4 +18,4 @@ As a Technical Information Analyst I combine analytical skills, ability to work 
 My published projects:
 
 * **Analyzing Amsterdam AirBnb Data:** https://bit.ly/3pzZdYT
-
+* **Creating a Waffle Chart:** https://bit.ly/3xheK47
