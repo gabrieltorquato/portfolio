@@ -3,19 +3,21 @@
 </p>
 
 # Gabriel Torquato
-<sub>*Technical Information Analyst* at Votorantim Cimentos</sub>
+<sub>*Analista de Informações Técnicas* na Votorantim Cimentos</sub>
 
-As a Technical Information Analyst I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying my knowledge in the cement industry real problems, I developed a critical thinking and problem-solving skills.
+Analista de Informações Técnicas há 2 anos, buscando uma mudança de carreira para a área de dados. Proficiência em análises, SQL, Python e Excel. Atualmente estudando na Escola de Data Science – Sigmoidal, buscando aplicar experiência adquirida em operações e ferramentas de análise na área de dados.
 
-**Background in:** Python
+**Proficiência em:** Python, SQL, Excel
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/gabriel-torquato-alves-705637192/)
+* [LinkedIn](https://www.linkedin.com/in/gabrieltorquato/)
 * [Medium](https://medium.com/@g.alvezz)
 
 
-## Projects:
-My published projects:
+## Projetos:
+Meus projetos publicados:
 
-* **Analyzing Amsterdam AirBnb Data:** https://bit.ly/3pzZdYT
-* **Creating a Waffle Chart:** https://bit.ly/3xheK47
+* **Analisando dados do AirBnB de Amsterdã:** https://bit.ly/3pzZdYT
+* **Criando um gráfico de Waflle:** https://bit.ly/3xheK47
+* **Dashboard - Analise de acidentes aéreos da base de dados do CENIPA:** bit.ly/3YuKFJD
+* **Tableau - Sample Sales Dashboard:** bit.ly/3Y6LmJg
