@@ -18,6 +18,5 @@ Analista de Informações Técnicas há 2 anos, buscando uma mudança de carreir
 Meus projetos publicados:
 
 * **Analisando dados do AirBnB de Amsterdã:** https://bit.ly/3pzZdYT
-* **Criando um gráfico de Waflle:** https://bit.ly/3xheK47
 * **Dashboard - Analise de acidentes aéreos da base de dados do CENIPA:** https://bit.ly/3YuKFJD
 * **Tableau - Sample Sales Dashboard:** https://bit.ly/3Y6LmJg
