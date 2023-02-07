@@ -82,7 +82,7 @@ Aeronáuticos (CENIPA)***.
 st.sidebar.markdown("""
 Meus contatos:\n
 [Portfolio](https://github.com/gabrieltorquato/portfolio)\n
-[Linkedin](https://www.linkedin.com/in/gabriel-torquato-alves-705637192/)
+[Linkedin](https://www.linkedin.com/in/gabrieltorquato/)
 """)
 
 # Somente aqui os dados filtrados por ano são atualizados em novo dataframe
