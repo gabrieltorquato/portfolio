@@ -18,5 +18,5 @@ Analista de Informações Técnicas há 2 anos, buscando uma mudança de carreir
 Meus projetos publicados:
 
 * **Analisando dados do AirBnB de Amsterdã:** https://bit.ly/3pzZdYT
-* **Dashboard - Analise de acidentes aéreos da base de dados do CENIPA:** https://bit.ly/3YuKFJD
-* **Tableau - Sample Sales Dashboard:** https://bit.ly/3Y6LmJg
+* **Dashboard - Analise de acidentes aéreos da base de dados do CENIPA:** https://bit.ly/400N144
+* **Tableau - Dashboard amostra de vendas:** https://bit.ly/3Y6LmJg
