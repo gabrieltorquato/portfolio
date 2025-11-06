@@ -66,3 +66,81 @@ if (nota >= 9 && nota <= 10) {
 let numero2 = 7;
 let resultado = (numero2 % 2 === 0) ? "Par" : "Ímpar";
 console.log("O número é: " + resultado);
+
+// 6. Menu com switch-case
+// Crie uma variável opcao com valores de 1 a 3. 
+// Use switch para mostrar: 1 - "Cadastrar", 2 - "Listar", 3 - "Sair".
+
+let opcao = 2;
+
+switch (opcao) {
+    case 1:
+        console.log("Cadastrar");
+    break;
+    case 2:
+        console.log("Listar");
+    break;
+    case 3:
+        console.log("Sair");
+    break;
+    default:
+        console.log("Opção inválida");
+    break;
+}
+
+// 7. Validação de campo obrigatório
+// Crie uma variável email. Se estiver vazia (""), 
+// mostre "Preencha o campo de e-mail". 
+// Caso contrário, mostre "E-mail válido".
+
+let email ="";
+
+if (email === "") {
+    console.log("Preencha o campo de e-mail");
+} else {
+    console.log("E-mail válido");
+}
+
+// 8. Validação de senha segura
+// Crie uma variável senha. 
+// Se tiver menos de 6 caracteres, 
+// mostre "Senha muito curta". 
+// Se tiver 6 ou mais, mostre "Senha válida".
+
+let senha ="123abc";
+
+if (senha.length < 6) {
+    console.log("Senha muito curta");
+} else {
+    console.log("Senha válida");
+}
+
+// 9. Compra com saldo
+// Crie duas variáveis: saldoDisponivel e valorCompra. 
+// Se o saldo for suficiente, mostre "Compra aprovada". 
+// Caso contrário, "Saldo insuficiente".
+
+let saldoDisponivel = 450;
+let valorCompra = 300;
+
+if (saldoDisponivel > valorCompra) {
+    console.log("Compra aprovada");
+} else {
+    console.log("Saldo insuficiente");
+}
+
+//10. Validação de formulário completo
+// Crie três variáveis: nome, email e idade. 
+// Mostre "Formulário enviado com sucesso" apenas 
+// se todos os campos estiverem preenchidos e a 
+// idade for maior que 0.
+
+let nome = "Gabriel";
+let idadeForm = 30;
+let emailForm = "gabriel@email.com"
+
+if (nome !== "" && emailForm.includes("@") && idadeForm> 0) {
+    console.log("Formulário enviado com sucesso");
+} else {
+    console.log("Por favor, preencha todos os campos corretamente.");
+}
